@@ -1,6 +1,6 @@
 public class Exercicio26 { 
     public static void main(String[] args) {
-        for ( int i = 0; i <= 10; i++ )
+        for ( int i = 0; i <= 40; i++ )
 			System.out.println("Fatorial de " + i + ": " + fatorial( i ));
     }
     public static double fatorial(int n)
